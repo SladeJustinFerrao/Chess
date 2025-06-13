@@ -1,0 +1,8 @@
+#chessboard {
+   display: grid;
+   grid-template-columns: repeat(8, 95px);
+   grid-template-rows: repeat(8, 95px);
+   width: 760px;
+   height: 760px;
+   background-color: #212121;
+}
